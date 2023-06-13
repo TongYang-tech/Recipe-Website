@@ -1,7 +1,12 @@
-body {
+body, h1 {
     margin: auto;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color:bisque;
 }
